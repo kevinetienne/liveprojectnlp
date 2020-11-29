@@ -7,7 +7,7 @@ This repository contains a jupyter notebook generated with https://colab.researc
 Todo:
 
  - [x] Loading and Segregating the CNN News Dataset
- - [ ] Extracting Summaries from the Stories
+ - [x] Extracting Summaries from the Stories
  - [ ] Dataset Investigation and Training a Baseline Extractive Summarization Model
  - [ ] Running Sample Predictions and Evaluating the Baseline Model
  - [ ] Plugging an Attention Mechanism into Our CNN-LSTM Model
